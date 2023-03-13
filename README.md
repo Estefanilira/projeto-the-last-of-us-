@@ -1,6 +1,6 @@
-# Um carrossel de imagens da série The Last Of Us.
+# Carrossel de imagens da série The Last Of Us.
 
-Tecnologias usadas:
+# Tecnologias usadas:
 - HTML
 - CSS
 - JavaScript
